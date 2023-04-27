@@ -26,6 +26,6 @@
 
 > :atom:  IDEs -  Visual Studio | Vim | Visual Studio Code
 
-> :artist_palette:  graphics software -  Blender | Maya | Substance Designer | Substance Painter
+> 🎨  graphics software -  Blender | Maya | Substance Designer | Substance Painter
 
 <br>
