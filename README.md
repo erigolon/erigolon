@@ -24,7 +24,6 @@
 > :hammer_and_wrench:  Tools -  Stack Overflow
 
 <br>
-
 <br>
 
 ## 🧑‍💻 My Current Technical Skills
@@ -57,7 +56,12 @@
 | 5A  | FdF                                         | 🔒     |   | 13  | CPP Module 02                              | 🔒     |   | 23  | Inception                      | 🔒      |
 | 5B  |  [so_long](../../../so_long-42cursus)       | ✅     |   | 14  | CPP Module 03                              | 🔒     |   | 24  | ft_transcendence               | 🔒      |
 | 6A  |  minitalk                                   | 🛠     |   | 15  | CPP Module 04                              | 🔒     |   |     |                                |         |
-| 6B  |  [pipex](../../../pipex-42cursus)           | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
-| 7   |  [push_swap](../../../push_swap-42Cursus)                                  | 🔒     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
+| 6B  |  [pipex]           | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
+| 7   |  [push_swap]                                  | 🔒     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
 | 8   |  minishell                                  | 🔒     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
 | 9   |  Philosphers                                | 🔒     |   | 19  | CPP Module 08                              | 🔒     |   |     |                       |        |
+
+<h3><p align="right"> Contact me!</p></h3>
+
+[<img src="https://user-images.githubusercontent.com/121127625/226583635-92749b76-e3ba-49f8-8dd4-091c3c1367c7.png" width="40" height="40" align = right></img>](https://www.linkedin.com/in/jessica-merchan-cantero/)
+[<img src="https://user-images.githubusercontent.com/121127625/226584389-2e19928e-40c9-4980-b934-d37ded697b59.png" width="40" height="40" align = right></img>](mailto:jesmercan@gmail.com)
