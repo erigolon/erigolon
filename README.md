@@ -2,7 +2,7 @@
 
 ### I'm Esteban Rigolon 👋
 
-#### Currently studying to become a technical artist 💻🎨
+#### Currently studying to become a data science 💻🧪🔬
 
 - 🔭 I’m currently studying Software Developer in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**
 - 👀 I’m interested in Unreal, Unity, Blender and Substance Designer.
