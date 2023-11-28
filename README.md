@@ -2,11 +2,11 @@
 
 ### I'm Esteban Rigolon 👋
 
-#### Currently studying to become a data science 💻🧪🔬
+#### Currently studying to become a Software Developer 💻🧪🔬
 
 - 🔭 I’m currently studying Software Developer in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**
-- 👀 I’m interested in Unreal, Unity, Blender and Substance Designer.
-- 🌱 Currently working in my projects from 42 and personal 3D models for a videogame.
+- 👀 I’m interested in Videogame development, data analyst and CRM tools.
+- 🌱 Currently working in my projects from 42 and different languages beside C/C++.
 - 🎓 3D model Freelancer, Master in videogame design and programming.
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/landscapes/erigolon?1337Badge=off&UM6P=off" alt="erigolon's 42 stats" /></a>
@@ -19,9 +19,9 @@
 [![My Skills](https://skillicons.dev/icons?i=python,cs,cpp,stackoverflow)](https://skillicons.dev)
 
 
-> :desktop_computer:  Languages - Python | C++ | C#
+> :desktop_computer:  Languages - Python | C++ | SQL
 
-> :hammer_and_wrench:  Tools -  Stack Overflow
+> :hammer_and_wrench:  Tools -  Stack Overflow | Salesforce
 
 <br>
 <br>
