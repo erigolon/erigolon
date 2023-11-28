@@ -58,8 +58,8 @@
 | 6A  |  [minitalk](../../../minitalk)                                  | ✅     |   | 15  | CPP Module 04                              | 🔒     |   |     |                                |         |
 | 6B  |  pipex           | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
 | 7   |  [push_swap](../../../push_swap)                                  | ✅     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
-| 8   |  minishell                                  | 🔒     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
-| 9   |  Philosphers                                | 🛠     |   | 19  | CPP Module 08                              | 🔒     |   |     |                       |        |
+| 8   |  minishell                                  | 🛠     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
+| 9   |  [Philosphers](../../../Philosophers)                                | ✅     |   | 19  | CPP Module 08                              | 🔒     |   |     |                       |        |
 
 <h3><p align="right"> Contact me!</p></h3>
 
