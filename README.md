@@ -2,10 +2,10 @@
 
 ### I'm Esteban Rigolon 👋
 
-#### Currently studying to become a Software Developer 💻🧪🔬
+#### Currently studying software developer and cybersecurity 💻🧪🔬
 
 - 🔭 I’m currently studying Software Developer in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**
-- 👀 I’m interested in Videogame development, data analyst and CRM tools.
+- 👀 I’m interested in Videogame development, cybersecurity and pedagogy.
 - 🌱 Currently working in my projects from 42 and different languages beside C/C++.
 - 🎓 3D model Freelancer, Master in videogame design and programming.
 <p align="center">
@@ -16,10 +16,10 @@
 
 ## 💻 Skills I'm Currently Acquiring
 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,cpp,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,stackoverflow)](https://skillicons.dev)
 
 
-> :desktop_computer:  Languages - Python | C++ | SQL
+> :desktop_computer:  Languages - | C++ | SQL
 
 > :hammer_and_wrench:  Tools -  Stack Overflow | Salesforce
 
@@ -28,9 +28,9 @@
 
 ## 🧑‍💻 My Current Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=blender,c,git,github,visualstudio,ps,unreal,unity,vim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,c,python,git,github,visualstudio,ps,unreal,unity,vim,vscode)](https://skillicons.dev)
 
-> :desktop_computer:  Languages - C | Bash
+> :desktop_computer:  Languages - C | Bash | Python
 
 > :hammer_and_wrench:  Tools -  Git | GitHub
 
@@ -49,16 +49,16 @@
 
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
-| 1   | [Libft](../../../Libft)            | ✅     |   | 10A | cub3d                                      | 🔒     |   | 20  | NetPractice                    | 🔒      |
+| 1   | [Libft](../../../Libft)            | ✅     |   | 10A | cub3d                                      | 🛠     |   | 20  | NetPractice                    | ✅      |
 | 2   | Born2beroot                                 | ✅     |   | 10B | miniRT                                     | 🔒     |   | 21  | ft_containers                  | 🔒      |
-| 3   | [ft_printf](../../../ft_printf)    | ✅     |   | 11  | CPP Module 00                              | 🔒     |   | 22A | ft_irc                         | 🔒      |
+| 3   | [ft_printf](../../../ft_printf)    | ✅     |   | 11  | CPP Module 00                              | 🛠     |   | 22A | ft_irc                         | 🔒      |
 | 4   | [get_next_line](../../../get_next_line)| ✅     |   | 12  | CPP Module 01                          | 🔒     |   | 22B | webserv                        | 🔒      |
 | 5A  | FdF                                         | 🔒     |   | 13  | CPP Module 02                              | 🔒     |   | 23  | Inception                      | 🔒      |
 | 5B  |  [so_long](../../../so_long)       | ✅     |   | 14  | CPP Module 03                              | 🔒     |   | 24  | ft_transcendence               | 🔒      |
 | 6A  |  [minitalk](../../../minitalk)                                  | ✅     |   | 15  | CPP Module 04                              | 🔒     |   |     |                                |         |
 | 6B  |  pipex           | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
 | 7   |  [push_swap](../../../push_swap)                                  | ✅     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
-| 8   |  minishell                                  | 🛠     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
+| 8   |  [minishell](../../../minishell)                                  | ✅     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
 | 9   |  [Philosphers](../../../Philosophers)                                | ✅     |   | 19  | CPP Module 08                              | 🔒     |   |     |                       |        |
 
 <h3><p align="right"> Contact me!</p></h3>
